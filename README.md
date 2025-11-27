@@ -45,7 +45,7 @@ Excel Formulas
 (SUM, AVERAGE, IF, VLOOKUP, TEXT functions)
 
 Download Excel File
-Sales_Dashboard.xlsx
+https://github.com/NimmakantiDivya/excel-sales-dashboard/blob/main/Sales_Dashboard.xlsx
 
 
 Insights Provided by the Dashboard
