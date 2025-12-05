@@ -44,9 +44,6 @@ Tools & Techniques Used:
 7.Excel Formulas:
    (SUM, AVERAGE, IF, VLOOKUP, TEXT functions)
 
-Download Excel File:
-https://github.com/NimmakantiDivya/excel-sales-dashboard/blob/main/Sales_Dashboard.xlsx
-
 
 Insights Provided by the Dashboard:
 1.Which product categories generate the highest revenue
